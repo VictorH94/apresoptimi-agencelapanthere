@@ -328,6 +328,7 @@ a:hover {
     font-size: 16px;
     padding: 0 10px;
     padding: 0 25px;
+    font-weight: 700;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -480,6 +481,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: #000000!important;
 }
 
 .icon-lg {
@@ -656,6 +658,8 @@ a {
     font-weight: 400;
     color: #000000!important;
     text-decoration: none;
+    font-weight: 700;
+    font-size: 17px;
 }
 
 .container {
@@ -689,7 +693,7 @@ a {
 
 .author {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 700;
 }
 
 .tight-width-whitespace {
@@ -747,7 +751,7 @@ h4 {
 }
 
 .white {
-    color: #ffffff!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -783,16 +787,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #cc4d11;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #cc4d11;
-    color: #ffffff!important;
+    background: #F3976C;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
