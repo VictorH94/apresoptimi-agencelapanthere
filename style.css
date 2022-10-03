@@ -99,7 +99,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255);
+    color: rgba(255,255,255);
 }
 
 .d-bloc button:hover {
@@ -699,6 +699,7 @@ a {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    color: #000000;
 }
 
 .h1 {
@@ -792,6 +793,11 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+}
+
+/*tc-white-modif*/
+.tc-white-modif {
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
