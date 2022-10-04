@@ -22,4 +22,4 @@ __Compétences évaluées__:
 * Optimiser la taille et la vitesse d’un site web.
 
 __Outils et Techonlogies utilisés__:
-HTML, CSS, Wave Evaluation Tool, Lighthouse, GTmetrix
+HTML5, CSS3, Wave Evaluation Tool, Lighthouse, GTmetrix
